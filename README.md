@@ -54,8 +54,9 @@ Metrics → Prometheus → Grafana
 
 ```bash
 docker-compose up -d
+```
 
-Default Grafana login:
+### Default Grafana login:
 Username: admin
 Password: admin
 
